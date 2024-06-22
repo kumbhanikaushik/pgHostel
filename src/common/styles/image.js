@@ -1,0 +1,17 @@
+export const Images = {
+    heart: require("../../assets/Images/heart.png"),
+    heartIcom: require("../../assets/Images/heartIcom.png"),
+    green_heart: require("../../assets/Images/green_heart.png"),
+    search: require("../../assets/Images/search.png"),
+    calendar: require("../../assets/Images/calendar.png"),
+    user: require("../../assets/Images/user.png"),
+    share: require("../../assets/Images/share.png"),
+    shareIcon: require("../../assets/Images/shareIcon.svg"),
+    rigth_arrow: require("../../assets/Images/rigth_arrow.png"),
+    image: require("../../assets/Images/image.png"),
+    home: require("../../assets/Images/home.png"),
+    users: require("../../assets/Images/users.png"),
+    profil: require("../../assets/Images/profil.png"),
+    investor: require("../../assets/Images/investor.png"),
+    locationIcon: require("../../assets/Images/locationIcon.png"),
+}
